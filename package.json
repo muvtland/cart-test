@@ -1,0 +1,24 @@
+{
+  "name": "test-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js",
+    "client": "npm run start --prefix client",
+    "dev": "cross-env NODE_ENV=development concurrently \"npm run server\" \"npm run client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^7.0.2",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concurrently": "^5.3.0",
+    "express": "^4.17.1",
+    "redis": "^3.0.2"
+  }
+}

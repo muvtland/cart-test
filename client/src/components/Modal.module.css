@@ -1,0 +1,62 @@
+.modalLayer{
+    -webkit-backdrop-filter: blur(3px);
+    backdrop-filter: blur(3px);
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    left: 0;
+    overflow: auto;
+    position: fixed;
+    top: 0;
+    transition: all .3s;
+    width: 100vw;
+    z-index: 90;
+    background: hsla(0,0%,100%,.3);
+}
+
+.modal{
+    opacity: 1;
+    transform: scale(1) translateY(0);
+    visibility: visible;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 3px 3px rgba(0,0,0,.15);
+    display: inline-block;
+    font: normal 4.26667vmin Open Sans,sans-serif;
+    margin: 60px;
+    min-width: 300px;
+    overflow: hidden;
+    position: relative;
+    transition: all .3s;
+}
+
+.text{
+    color: #373d48;
+    font: 500 4.8vmin Open Sans,sans-serif;
+    margin: 0 0 11px;
+    padding: 20px
+}
+
+.buttonGroup{
+    margin-top: 13px;
+    padding: 15px 24px 10px;
+    text-align: right
+}
+
+.cancel, .accept{
+    font-size: 3.73333vmin;
+    padding: 6px 15px;
+    background: #edeef0;
+    color: #373d48;
+    margin: 0 0 2.66667vmin;
+    border: 1px solid transparent;
+    cursor: pointer;
+}
+
+.accept{
+    border-color: rgb(13, 146, 210);
+    background-color: rgb(13, 146, 210);
+    margin-left: 1.73611vmin;
+    color: #ebeced;
+}

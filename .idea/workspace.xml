@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17d4f46b-5aeb-4015-907e-ffa82e93f59b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/components/CartItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CartItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CartTitle.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CartTitle.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Modal.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Modal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/config/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1hJHekfDLCeLak6IUf7hDvRZOsC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/client/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17d4f46b-5aeb-4015-907e-ffa82e93f59b" name="Default Changelist" comment="" />
+      <created>1599722371812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599722371812</updated>
+      <workItem from="1599722372903" duration="4057000" />
+      <workItem from="1599728072702" duration="17508000" />
+      <workItem from="1599815004384" duration="3840000" />
+      <workItem from="1599818995482" duration="6757000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="680" y="337" width="590" height="404" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599727901983">
+      <screen x="40" y="0" width="1880" height="1080" />
+    </state>
+    <state x="680" y="337" width="590" height="404" key="#com.intellij.fileTypes.FileTypeChooser/40.0.1880.1080@40.0.1880.1080" timestamp="1599727901983" />
+    <state x="763" y="298" width="424" height="482" key="FileChooserDialogImpl" timestamp="1599814966062">
+      <screen x="40" y="0" width="1880" height="1080" />
+    </state>
+    <state x="763" y="298" width="424" height="482" key="FileChooserDialogImpl/40.0.1880.1080@40.0.1880.1080" timestamp="1599814966062" />
+    <state x="461" y="175" key="SettingsEditor" timestamp="1599819814368">
+      <screen x="40" y="0" width="1880" height="1080" />
+    </state>
+    <state x="461" y="175" key="SettingsEditor/40.0.1880.1080@40.0.1880.1080" timestamp="1599819814368" />
+  </component>
+</project>

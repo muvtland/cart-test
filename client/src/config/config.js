@@ -1,0 +1,3 @@
+export const config  = {
+    url: 'https://wv.fs5k.com/catalog/?bot_key=2113aea7-ddd0-42a8-b0fa-738b8835aeba&on_success_node=46218&primary_color=0d92d2&on_clear_node=46227&ecommerce_url=https://fasttrack-ecom-fashion.flex.fstrk.io&ecommerce=8f23fa09-c277-424a-9604-f5dd1c859bea&on_close_url=https%3A//refer.id/%3Fbot%3DFasttrackFashionBot%26platform%3Dtelegram%26verbose_name%3DFasttrack%3A%20%D0%9E%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0%26bot_avatar%3Dhttps%3A//designer.ftrcdn.com/uploads/bot_avatars/Avatar_9DPlv7j.png%26is_close_url%3D1&base_url=https%3A//designer.fstrk.io/&chat_uuid=0970da6a-f125-4d2e-a12a-7022e1973f41'
+}

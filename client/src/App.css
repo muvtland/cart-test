@@ -1,0 +1,24 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.content{
+  max-width: 992px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.clear{
+  display: block;
+  width: 100%;
+  cursor: pointer;
+  background: #edeef0;
+  color: #373d48;
+  font-size: 3.73333vmin;
+  margin: 0 0 2.66667vmin;
+  padding: 10px;
+  font-weight: 400;
+  border: 1px solid transparent
+}
